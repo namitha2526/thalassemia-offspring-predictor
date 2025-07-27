@@ -55,7 +55,7 @@ thalassemia-prediction/
 
 ### 1. Clone the Repository
 (bash)
-git clone https://github.com/namitha2526/thalassemia-prediction.git
+git clone https://github.com/namitha2526/thalassemia-offspring-predictor.git
 cd thalassemia-prediction
 
 ✅ Applications
